@@ -1,1 +1,1 @@
-Tämä on Verkkosivujen kehittäminen WS05 työpaja kansio.
+Tämän alla näkyy kaikki tehdyt tehtävät.
